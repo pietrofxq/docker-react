@@ -20,5 +20,9 @@
     ">0.25%",
     "not op_mini all",
     "ie 11"
-  ]
+  ],
+  "devDependencies": {
+    "@types/terser": "^3.8.0",
+    "terser": "^3.14.1"
+  }
 }
